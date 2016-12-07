@@ -27,7 +27,7 @@ outputImageView.image = inputImageView.image?.transforms([
 ])
 ```
 
-<img src="screenshots/screenshot_1.png" width="200" border="1"/>
+<img src="Screenshots/screenshot_1.png" width="200" border="1"/>
 
 ##License
 MIT
